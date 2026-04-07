@@ -1,7 +1,12 @@
 aid: sonoco-products
-url: https://raw.githubusercontent.com/api-evangelist/sonoco-products/refs/heads/main/apis.yml
+url: 
+  https://raw.githubusercontent.com/api-evangelist/sonoco-products/refs/heads/main/apis.yml
 modified: '2026-03-24'
 apis: []
 common:
   - type: Website
     url: https://www.sonoco-products.com
+description: >-
+  Sonoco Products is a global provider of consumer packaging, industrial products,
+  protective packaging, and packaging supply chain services serving customers in dozens
+  of industries.
