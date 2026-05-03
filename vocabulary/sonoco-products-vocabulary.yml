@@ -1,0 +1,98 @@
+vocabulary:
+  name: Sonoco Products Vocabulary
+  description: >-
+    Vocabulary for Sonoco Products Company covering packaging manufacturing,
+    materials, product lines, markets, and sustainability concepts.
+  version: "1.0.0"
+  created: "2026-05-02"
+  modified: "2026-05-02"
+  tags:
+    - Packaging
+    - Manufacturing
+    - Sustainability
+
+terms:
+
+  - term: Metal Packaging
+    definition: >-
+      Sonoco's product line including aerosol cans, steel food cans, and metal
+      closures for food, beverage, and consumer goods markets.
+    type: concept
+    tags: [Products, Metal]
+
+  - term: Rigid Paper Packaging
+    definition: >-
+      Sonoco's paper-based containers and fiber cartridges used for food,
+      personal care, and household product packaging.
+    type: concept
+    tags: [Products, Paper]
+
+  - term: Industrial Paper Packaging
+    definition: >-
+      Sonoco's tubes, cores, recycled paperboard, and protective packaging
+      products serving industrial and manufacturing customers.
+    type: concept
+    tags: [Products, Industrial]
+
+  - term: Fiber Composite Can
+    definition: >-
+      A cylindrical paper-based container with metal or plastic ends, commonly
+      used for snack foods, nuts, beverages, and powdered products.
+    type: concept
+    tags: [Products, Paper]
+
+  - term: Tube and Core
+    definition: >-
+      Cylindrical paper products used as the inner core for winding textiles,
+      film, paper, and other flexible materials during manufacturing.
+    type: concept
+    tags: [Products, Industrial]
+
+  - term: Closures
+    definition: >-
+      Metal or plastic ends and lids used to seal packaging containers, part of
+      Sonoco's metal packaging product portfolio.
+    type: concept
+    tags: [Products, Metal]
+
+  - term: EcoReel
+    definition: >-
+      Sonoco's recyclable reel product line and associated recycling program
+      for industrial reels used in cable, wire, and fiber optic industries.
+    type: concept
+    tags: [Products, Sustainability]
+
+  - term: Recycled Paperboard
+    definition: >-
+      Paperboard manufactured from recycled fiber, used as raw material for
+      Sonoco's tubes, cores, and rigid paper packaging products.
+    type: concept
+    tags: [Materials, Sustainability]
+
+  - term: Protective Packaging
+    definition: >-
+      Packaging solutions designed to protect products during shipping and storage,
+      including foam, paper, and engineered protective systems.
+    type: concept
+    tags: [Products, Industrial]
+
+  - term: Packaging Supply Chain Management
+    definition: >-
+      Sonoco's Global Services division offering end-to-end packaging procurement,
+      inventory management, and supply chain optimization services.
+    type: concept
+    tags: [Services, Supply Chain]
+
+  - term: Sustainable Packaging
+    definition: >-
+      Packaging designed to minimize environmental impact through recycled content,
+      recyclability, reduced material use, or renewable materials.
+    type: concept
+    tags: [Sustainability, Core]
+
+  - term: Aerosol Can
+    definition: >-
+      A pressurized metal container used for personal care, household, and industrial
+      spray products, part of Sonoco's metal packaging portfolio.
+    type: concept
+    tags: [Products, Metal]
