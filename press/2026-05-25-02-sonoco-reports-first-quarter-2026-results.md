@@ -1,7 +1,9 @@
 ---
 title: Sonoco Reports First Quarter 2026 Results
 url: https://investor.sonoco.com/news/news-details/2026/Sonoco-Reports-First-Quarter-2026-Results/default.aspx
-date: '2026-05-25'
+published: ''
+date_basis: harvested
+harvested: '2026-05-25'
 query: '"Sonoco Products" press release artificial intelligence'
 position: 2
 source: serpapi-google

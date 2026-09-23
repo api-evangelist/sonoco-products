@@ -1,7 +1,9 @@
 ---
 title: Sonoco reports 'strong productivity savings' in Q1 earnings
 url: https://www.wastetodaymagazine.com/news/sonoco-reports-productivity-savings-in-q1-earnings/
-date: '2026-05-25'
+published: ''
+date_basis: harvested
+harvested: '2026-05-25'
 query: '"Sonoco Products" press release artificial intelligence'
 position: 3
 source: serpapi-google

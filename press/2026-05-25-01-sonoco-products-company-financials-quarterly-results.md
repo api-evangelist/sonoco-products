@@ -1,7 +1,9 @@
 ---
 title: Sonoco Products Company - Financials - Quarterly Results
 url: https://investor.sonoco.com/financials/quarterly-results/default.aspx
-date: '2026-05-25'
+published: ''
+date_basis: harvested
+harvested: '2026-05-25'
 query: '"Sonoco Products" press release artificial intelligence'
 position: 1
 source: serpapi-google

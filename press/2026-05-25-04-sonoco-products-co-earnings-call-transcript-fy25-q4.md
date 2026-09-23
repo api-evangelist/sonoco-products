@@ -1,7 +1,9 @@
 ---
 title: SONOCO PRODUCTS CO Earnings Call Transcript FY25 Q4
 url: https://www.stockinsights.ai/us/SON/earnings-transcript/fy25-q4-1d13
-date: '2026-05-25'
+published: ''
+date_basis: harvested
+harvested: '2026-05-25'
 query: '"Sonoco Products" press release artificial intelligence'
 position: 4
 source: serpapi-google

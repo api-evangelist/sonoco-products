@@ -1,7 +1,9 @@
 ---
 title: Sonoco Products Co (SON) Stock Price, Trades & News
 url: https://www.gurufocus.com/stock/SON/summary
-date: '2026-05-25'
+published: ''
+date_basis: harvested
+harvested: '2026-05-25'
 query: '"Sonoco Products" press release artificial intelligence'
 position: 5
 source: serpapi-google
